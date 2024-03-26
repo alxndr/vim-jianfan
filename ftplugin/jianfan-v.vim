@@ -45,7 +45,3 @@ function! B2G(...)
   endwhile
   exe 'normal '.fsl.'gg'
 endfunction
-
-".vimrc 简化汉字和传统汉字转换
-"vnoremap <c-t> :Tcn<CR>
-"vnoremap <c-s> :Scn<CR> 
